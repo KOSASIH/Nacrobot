@@ -1,4 +1,6 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Nacrobot.svg/?label=active+issues&show_trend=true&token=y5rhQtvbsUpTkcumrf5K5XT9)](https://deepsource.io/gh/KOSASIH/Nacrobot/?ref=repository-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
 # Nacrobot
 
