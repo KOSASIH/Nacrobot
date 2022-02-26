@@ -1,39 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to Nacrobot Pages
 
-You can use the [editor on GitHub](https://github.com/KOSASIH/Nacrobot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Nacrobot.svg/?label=active+issues&show_trend=true&token=y5rhQtvbsUpTkcumrf5K5XT9)](https://deepsource.io/gh/KOSASIH/Nacrobot/?ref=repository-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Nacrobot
 
-### Markdown
+Business powered AI robotic processor automation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Brand Voice
 
-```markdown
-Syntax highlighted code block
+Modern. Smart, Fast, Friendly
 
-# Header 1
+# Brand Mission
 
-## Header 2
+To be the most advanced AI company, to use new innovation and integrated intelligence technologies to help your business succeed faster.
 
-### Header 3
 
-- Bulleted
-- List
+# Description
 
-1. Numbered
-2. List
+Meet NaCrobot, the AI-powered business processor that automates virtually all of your workflow with an accuracy rate of 99.99%. In other words, we're talking about a quantum leap over even the most advanced management software available today.
 
-**Bold** and _Italic_ and `Code` text
+NaCrobot offers a simple solution: no more time wasted on paperwork, data entry, or any of the other tedious tasks that keep you from doing what you do best. And our incredibly accurate artificial intelligence means that NaCrobot can be trusted where others can't. We'll help you stay lean, keep up with industry trends, and exceed your client's expectations every time.
 
-[Link](url) and ![Image](src)
-```
+Just think of how much more productive—and how much happier—your employees will be when they don't have to spend all day entering data, copying and pasting reports, or chasing down permissions from their bosses. They'll be able to focus on actually providing value to your clients—the thing they really want to do!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Nacrobot's AI Powered Robot Process Automation provides complete automation solutions for businesses. Our solution effectively combines the power of RPA, AI and machine learning to automate business processes from end-to-end and deliver instantaneous results.
 
-### Jekyll Themes
+Nacrobot is an AI-powered robotic process automation tool designed to help your business save time and money.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KOSASIH/Nacrobot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+It can automatically complete tasks like:
 
-### Support or Contact
+-data entry
+
+-filling out forms
+
+-checking for inaccuracies in spreadsheets
+
+-generating new documents from templates
+
+As a result, it saves your company money by reducing costs associated with repetitive work and improves productivity by freeing up employees to focus on more important tasks.
+# Value Proposition
+
+AI Powered Business Automation: The Nacrobot technology is based on the use of AI (Artificial Intelligence) algorithms. The technology enables the automation of actions for business process and controlling the complete sales funnel.
+
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
