@@ -1,4 +1,10 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Nacrobot.svg/?label=active+issues&show_trend=true&token=y5rhQtvbsUpTkcumrf5K5XT9)](https://deepsource.io/gh/KOSASIH/Nacrobot/?ref=repository-badge)
+[![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Nacrobot)](https://github.com/KOSASIH/Nacrobot/issues)
+[![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Nacrobot)](https://github.com/KOSASIH/Nacrobot/network)
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Nacrobot)](https://github.com/KOSASIH/Nacrobot/stargazers)
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/Nacrobot)](https://github.com/KOSASIH/Nacrobot/blob/main/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FNacrobot)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
