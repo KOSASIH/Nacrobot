@@ -16,7 +16,6 @@ Modern. Smart, Fast, Friendly
 
 To be the most advanced AI company, to use new innovation and integrated intelligence technologies to help your business succeed faster.
 
-
 # Description
 
 Meet NaCrobot, the AI-powered business processor that automates virtually all of your workflow with an accuracy rate of 99.99%. In other words, we're talking about a quantum leap over even the most advanced management software available today.
@@ -40,10 +39,9 @@ It can automatically complete tasks like:
 -generating new documents from templates
 
 As a result, it saves your company money by reducing costs associated with repetitive work and improves productivity by freeing up employees to focus on more important tasks.
+
 # Value Proposition
 
 AI Powered Business Automation: The Nacrobot technology is based on the use of AI (Artificial Intelligence) algorithms. The technology enables the automation of actions for business process and controlling the complete sales funnel.
-
-
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
