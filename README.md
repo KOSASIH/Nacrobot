@@ -21,6 +21,19 @@ Just think of how much more productive—and how much happier—your employees w
 
 Nacrobot's AI Powered Robot Process Automation provides complete automation solutions for businesses. Our solution effectively combines the power of RPA, AI and machine learning to automate business processes from end-to-end and deliver instantaneous results.
 
+Nacrobot is an AI-powered robotic process automation tool designed to help your business save time and money.
+
+It can automatically complete tasks like:
+
+-data entry
+
+-filling out forms
+
+-checking for inaccuracies in spreadsheets
+
+-generating new documents from templates
+
+As a result, it saves your company money by reducing costs associated with repetitive work and improves productivity by freeing up employees to focus on more important tasks.
 # Value Proposition
 
 AI Powered Business Automation: The Nacrobot technology is based on the use of AI (Artificial Intelligence) algorithms. The technology enables the automation of actions for business process and controlling the complete sales funnel.
