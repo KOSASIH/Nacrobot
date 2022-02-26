@@ -2,9 +2,11 @@
 
 # Nacrobot
 
-Business powered AI robot process automation
+Business powered AI robotic processor automation
 
 # Brand Voice
+
+Modern. Smart, Fast, Friendly
 
 # Brand Mission
 
