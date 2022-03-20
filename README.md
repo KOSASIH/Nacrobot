@@ -1,5 +1,5 @@
 [![MobSF](https://github.com/KOSASIH/Nacrobot/actions/workflows/mobsf.yml/badge.svg)](https://github.com/KOSASIH/Nacrobot/actions/workflows/mobsf.yml)
-
+[![njsscan sarif](https://github.com/KOSASIH/Nacrobot/actions/workflows/njsscan.yml/badge.svg)](https://github.com/KOSASIH/Nacrobot/actions/workflows/njsscan.yml)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Nacrobot.svg/?label=active+issues&show_trend=true&token=y5rhQtvbsUpTkcumrf5K5XT9)](https://deepsource.io/gh/KOSASIH/Nacrobot/?ref=repository-badge)
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Nacrobot)](https://github.com/KOSASIH/Nacrobot/issues)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Nacrobot)](https://github.com/KOSASIH/Nacrobot/network)
